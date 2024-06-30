@@ -67,7 +67,7 @@ Unless otherwise stated, for each question:
 
 ![alt text](image-1.png)
 
-### Sources:
+### References:
  - Xpert Learning Assistant 
  - Professor TED and Sherhone to help with the question related to searching within 0. 01 degree on either side of the latitude and longitude in the NoSQL_analysis_starter.ipynb code.
 
